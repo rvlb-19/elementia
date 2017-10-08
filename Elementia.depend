@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1428538975 source:c:\users\renato vieira\documents\projetos\elementia\main.cpp
+	"game_libs.h"
+
+1428532829 c:\users\renato vieira\documents\projetos\elementia\files\game_libs.h
+	<allegro.h>
+	<vector>
+	<cstdio>
+	<string>
+	<ctime>
+
+1428532653 c:\users\renato vieira\documents\projetos\elementia\files\character.h
+	"game_libs.h"
+
+1428532653 c:\users\renato vieira\documents\projetos\elementia\files\item.h
+	"game_libs.h"
+
+1428532653 c:\users\renato vieira\documents\projetos\elementia\files\level.h
+	"game_libs.h"
+
+1428538252 c:\users\renato vieira\documents\projetos\elementia\game_libs.h
+	<allegro.h>
+	<vector>
+	<cstdio>
+	<string>
+	<ctime>
+
+1428538983 source:c:\users\renato vieira\documents\projetos\elementia\game_libs.cpp
+	"game_libs.h"
+
+1430741248 source:c:\users\rvlb\desktop\elementia\main.cpp
+	"game_libs.h"
+
+1430740850 c:\users\rvlb\desktop\elementia\game_libs.h
+	<allegro.h>
+	<vector>
+	<cstdio>
+	<string>
+	<ctime>
+
+1430740850 source:c:\users\rvlb\desktop\elementia\game_libs.cpp
+	"game_libs.h"
+
+1430695931 source:c:\users\renato vieira\desktop\elementia\main.cpp
+	"game_libs.h"
+
+1430694571 c:\users\renato vieira\desktop\elementia\game_libs.h
+	<allegro.h>
+	<vector>
+	<cstdio>
+	<string>
+	<ctime>
+
+1430694571 source:c:\users\renato vieira\desktop\elementia\game_libs.cpp
+	"game_libs.h"
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="game_libs.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="11186" topLine="159" />
+	</File>
+	<File name="game_libs.h" open="1" top="0" tabpos="2">
+		<Cursor position="5389" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="1" tabpos="1">
+		<Cursor position="37818" topLine="517" />
+	</File>
+</CodeBlocks_layout_file>
